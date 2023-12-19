@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment and virtual environment files
+.env
+venv/
+env/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Output files
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extension
+*.so
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+
+# Jupyter Notebook
+.ipynb_checkpoints/
